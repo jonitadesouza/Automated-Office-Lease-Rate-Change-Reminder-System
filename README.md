@@ -1,4 +1,4 @@
-# 📨 Office Reminder Automation – Google Apps Script Project
+# 📨 Automated Office Lease & Rate Change Reminder System– Google Apps Script Project
 
 Automated email reminder system for managing lease expiries, rate changes, and extension deadlines using **Google Sheets** + **Google Apps Script**.
 
