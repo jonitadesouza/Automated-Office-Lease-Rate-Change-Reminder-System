@@ -34,7 +34,7 @@ Built to help **startup incubators, co-working spaces**, and **facility managers
 
 | Sheet Layout | Email Output |
 |--------------|--------------|
-| ![Sample Sheet](sample_sheet.png) | ![Email Preview](email_preview.png) |
+| ![Sample Sheet]([Office_Occupancy.html)) | ![Email Preview](Sample_Email.png) |
 
 ---
 
