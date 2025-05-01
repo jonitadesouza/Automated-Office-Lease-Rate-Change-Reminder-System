@@ -24,8 +24,8 @@ Built to help **startup incubators, co-working spaces**, and **facility managers
 | File | Description |
 |------|-------------|
 | `Code.gs` | Main script file for Google Apps Script |
-| `sample_sheet.png` | Example of how the Google Sheet is structured (optional) |
-| `email_preview.png` | Sample HTML email format (optional) |
+| `Sample_Sheet.png` | Example of how the Google Sheet is structured (optional) |
+| `Sample_Email.png` | Sample HTML email format (optional) |
 | `README.md` | This documentation |
 
 ---
