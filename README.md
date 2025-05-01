@@ -34,7 +34,7 @@ Built to help **startup incubators, co-working spaces**, and **facility managers
 
 | Sheet Layout | Email Output |
 |--------------|--------------|
-|  [View Sheet Layout (HTML)](Office_Occupancy.html) | ![Email Preview](Sample_Email.png) |
+|  [View Sheet Layout (HTML)](Sample_Sheet.png) | ![Email Preview](Sample_Email.png) |
 
 ---
 
@@ -59,7 +59,7 @@ Subject: Rate Change | Reminder 1 of 3 | XYZ Pvt Ltd
 <p>Best,<br>Admin</p>
 
  Use Cases
--Infrastructure Managers
+- Infrastructure Managers
 - Startup Incubators
 - Co-working Space Admins
 - Property Managers
